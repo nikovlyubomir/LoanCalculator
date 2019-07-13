@@ -1,6 +1,5 @@
 // изчаква събмит
 document.getElementById('loan-form').addEventListener('submit', calculateResults);
-
 // фунция за калкулиране на резултата
 function calculateResults(e){
   console.log('Calculating...');
